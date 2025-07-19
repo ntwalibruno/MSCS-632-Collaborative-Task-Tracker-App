@@ -1,0 +1,13 @@
+# Requirements for the To-Do List Application
+# Core dependencies (built-in Python modules used):
+# - sqlite3 (built-in)
+# - tkinter (built-in)
+# - threading (built-in)
+# - datetime (built-in)
+# - argparse (built-in)
+# - hashlib (built-in)
+# - getpass (built-in)
+
+# Optional dependencies for enhanced functionality:
+colorama>=0.4.6
+tabulate>=0.9.0
