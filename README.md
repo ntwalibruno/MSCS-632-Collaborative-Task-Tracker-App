@@ -29,12 +29,6 @@ A comprehensive task management application with both command-line and graphical
 - Python 3.7 or higher
 - Built-in Python modules (no external dependencies required for basic functionality)
 
-### Optional Dependencies
-For enhanced CLI experience, install these packages:
-```bash
-pip install colorama tabulate
-```
-
 ### Setup
 1. Clone or download the application files
 2. Navigate to the application directory
@@ -88,11 +82,6 @@ python main.py --database /path/to/your/database.db
 - **Update Status**: Right-click task for status options
 - **Search**: Use the search box to find specific tasks
 - **View Options**: Use View menu for different task views
-
-### Keyboard Shortcuts
-- **Enter**: Execute search
-- **Double-click**: Edit selected task
-- **Right-click**: Context menu with task options
 
 ## CLI Interface Guide
 
@@ -256,22 +245,6 @@ To-Do List Application/
     ├── cli.py            # Command-line interface
     └── gui.py            # Graphical interface
 ```
-
-## Future Enhancements
-
-Potential improvements for future versions:
-- Web interface using Flask/Django
-- Email notifications for due dates
-- Task attachments and comments
-- Advanced reporting and analytics
-- Integration with external calendars
-- Mobile application support
-- Import/export functionality
-- Advanced search and filtering
-
-## License
-
-This project is created for educational purposes as part of an Advanced Programming Languages course.
 
 ---
 

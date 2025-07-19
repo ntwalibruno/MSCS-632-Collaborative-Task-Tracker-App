@@ -157,7 +157,7 @@ class CLIInterface:
         """Display application banner."""
         banner = """
 ╔══════════════════════════════════════════════════════════════╗
-║                    Multi-User To-Do List                     ║
+║                      Multi-User To-Do List                   ║
 ║                     Command Line Interface                   ║
 ╚══════════════════════════════════════════════════════════════╝
         """
